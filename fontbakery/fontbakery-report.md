@@ -3,7 +3,7 @@
 Fontbakery version: 0.8.4
 
 <details>
-<summary><b>[18] AlbertSans-ExtraLight.ttf</b></summary>
+<summary><b>[17] AlbertSans-ExtraLight.ttf</b></summary>
 <details>
 <summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary>
 
@@ -75,20 +75,6 @@ Check CJK family has the same vertical metrics as the same family hosted on
 Google Fonts.</pre>
 
 * 💔 **ERROR** The condition <FontBakeryCondition:regular_remote_style> had an error: FailedConditionError: The condition <FontBakeryCondition:remote_styles> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-</details>
-<details>
-<summary>💔 <b>ERROR:</b> On a family update, the DESCRIPTION.en_us.html file should ideally also be updated.</summary>
-
-* [com.google.fonts/check/description/family_update](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/description/family_update)
-<pre>--- Rationale ---
-We want to ensure that any significant changes to the font family are properly
-mentioned in the DESCRIPTION file.
-In general, it means that the contents of the DESCRIPTION.en_us.html file will
-typically change if when font files are updated. Please treat this check as a
-reminder to do so whenever appropriate!</pre>
-
-* 💔 **ERROR** The condition <FontBakeryCondition:github_gfonts_description> had an error: RemoteDisconnected: Remote end closed connection without response
 
 </details>
 <details>
@@ -5249,7 +5235,7 @@ by manual inspection.</pre>
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 109 | 0 | 173 | 1721 | 109 | 1576 | 0 |
+| 108 | 0 | 173 | 1722 | 109 | 1576 | 0 |
 | 3% | 0% | 5% | 47% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
