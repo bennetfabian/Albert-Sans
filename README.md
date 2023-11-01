@@ -1,17 +1,17 @@
 # The Albert Sans Font Project 
 
-[![][Fontbakery]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
-[![][Universal]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://usted.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://bennetfabian.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Universal]](https://bennetfabian.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://bennetfabian.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://bennetfabian.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://bennetfabian.github.io/Albert-Sans/fontbakery/fontbakery-report.html)
 
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fusted%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbennetfabian%2FAlbert-Sans%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbennetfabian%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbennetfabian%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbennetfabian%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbennetfabian%2FAlbert-Sans%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. 
 The Albert Sans family includes ten weights from Thin to Black and supports over two hundred languages.
@@ -31,7 +31,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at [https://usted.github.io/Albert-Sans](https://usted.github.io/Albert-Sans).
+The proof files and QA tests are also available automatically via GitHub Actions - look at [https://bennetfabian.github.io/Albert-Sans](https://bennetfabian.github.io/Albert-Sans).
 
 ## Changelog
 
